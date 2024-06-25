@@ -19,10 +19,10 @@
 
 #container .grid {
     background-color: bisque;
-    width: 20px;
-    height: 20px;
+    width: 10px;
+    height: 10px;
 }
 
 #container .grid:hover {
-    background-color: red;
+    background-color: rgb(103, 57, 27);
 }
